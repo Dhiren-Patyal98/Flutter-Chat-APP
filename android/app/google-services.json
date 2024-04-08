@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675827113063",
+    "project_id": "chattrail-56718",
+    "storage_bucket": "chattrail-56718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675827113063:android:d30db03b07bef948ad48c2",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx2Pk3IwUoUnJzzbSbcCLE_-MMMwWyrwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
